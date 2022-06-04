@@ -1,6 +1,7 @@
+// printing naming
 #indclude<stdio.h>
 int main()
 {
-  printf("Hello World")
+  printf("Fahem firdous")
   return 0;
   }
