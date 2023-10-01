@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">This is my C repository</p>
+<p align="center">This is my C repository</p>
 
 ###
 
-<p align="left">✨ Here is my C programming  roadmap<br>📚 It has Let's Book questions and <br>few more C programming projects</p>
+<p align="center">✨ Here is my C programming  roadmap<br>📚 It has Let's Book questions and <br>few more C programming projects</p>
 
 ###
 
@@ -30,6 +30,10 @@
 
 ###
 
+<p align="center">Here are my social👇</p>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/faheem-firdous-01653524a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -41,6 +45,18 @@
   <a href="faheemfirdous77@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/faheemfirdous/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
